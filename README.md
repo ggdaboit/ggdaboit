@@ -22,6 +22,17 @@ Cloud Architect focused on building scalable, well-structured infrastructure on 
 ![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat&logo=argo&logoColor=white)
 ![Crossplane](https://img.shields.io/badge/Crossplane-4A90D9?style=flat&logo=crossplane&logoColor=white)
 
+## Portfolio
+
+Some public repos showcasing how I build and organize infrastructure:
+
+| Repository | Description |
+|---|---|
+| [tofu-aws-infra](https://github.com/ggdaboit/tofu-aws-infra) | Multi-account AWS infrastructure with layered state isolation (global → regional → vpc-scoped → app) |
+| [tofu-aws-core-infra](https://github.com/ggdaboit/tofu-aws-core-infra) | Reusable OpenTofu module for core AWS resources (IAM, VPC, ECS, ALB, Valkey) |
+| [tofu-aws-application](https://github.com/ggdaboit/tofu-aws-application) | OpenTofu module for application-level resources (RDS, ECS services, secrets, S3, EventBridge) |
+| [tofu-aws-modules](https://github.com/ggdaboit/tofu-aws-modules) | Shared OpenTofu utility modules (Route53 domain delegation, platform state readers) |
+
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilleadydaboit/)
