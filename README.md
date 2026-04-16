@@ -1,6 +1,6 @@
 # Hey, I'm Gilleady Daboit 👋
 
-Cloud Architect focused on building scalable, well-structured infrastructure on AWS. I care about clean code, solid automation, and solving problems the right way.
+**Cloud Architect / DevOps** focused on building scalable, well-structured infrastructure on AWS. I care about clean code, solid automation, and solving problems the right way.
 
 ## What I do
 
