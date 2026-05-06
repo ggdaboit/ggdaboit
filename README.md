@@ -22,6 +22,8 @@ I'm an ownership-driven engineer — I take the lead, figure out the problem, de
 ![Terragrunt](https://img.shields.io/badge/Terragrunt-%23232F3E.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
+![Cognito](https://img.shields.io/badge/Cognito-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### ⚙️ DevOps & CI/CD
